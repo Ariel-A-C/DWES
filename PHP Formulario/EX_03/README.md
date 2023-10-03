@@ -1,0 +1,1 @@
+Es un ejercicio con un bucle simple, tan simple que he querido modificarlo un poco para que el output sea gramaticalmente correcto.

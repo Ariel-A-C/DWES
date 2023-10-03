@@ -1,0 +1,3 @@
+No he seguido exactamente el ejemplo del enunciado porque hacer ingeniería inversa era más complicado que empezar de cero. Al principio se escriben las fórmulas que sea y después se genera la información correspondiente de cada sensor.
+He estado un buen rato moviendo las líneas del `eval()` arriba y abajo, dentro y fuera, hasta que ha funcionado. Alguna forma habrá de poner la función fuera de la clase, pero no la he encontrado.
+He asumido que todas las operaciones empiezan por 'sensor' porque asumir lo contrario era complicarse demasiado (a no ser que el usuario escriba `$sensor` en vez de `sensor`.

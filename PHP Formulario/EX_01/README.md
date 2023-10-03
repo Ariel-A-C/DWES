@@ -1,0 +1,1 @@
+Excepto lo del formulario que he tenido que mirar por ahí, el resto ha sido sencillo. He añadido un "if(exists)" al texto porque sino quedaba raro al recargar la página.

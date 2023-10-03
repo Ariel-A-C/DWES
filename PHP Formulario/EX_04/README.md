@@ -1,0 +1,1 @@
+He buscado en internet cómo hacer un formulario así, por eso la línea <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" enctype="multipart/form-data">` parece mejor que el resto de código. A parte de eso, lo más difícil ha sido conseguir el nombre del fichero y lo de alumno/profesor.
